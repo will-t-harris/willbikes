@@ -16,7 +16,8 @@
     "url": "https://github.com/will-t-harris/willbikes/issues"
   },
   "homepage": "https://github.com/will-t-harris/willbikes#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "node-sass": "^4.12.0"
   }
 }
