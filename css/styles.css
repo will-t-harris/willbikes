@@ -59,8 +59,12 @@ body {
 .u-margin-top-huge {
   margin-top: 10rem; }
 
-li {
-  color: green; }
+.nav-main {
+  position: relative; }
+  .nav-main__box {
+    list-style: none; }
+  .nav-main__item {
+    list-style: none; }
 
 .header {
   height: 95vh;

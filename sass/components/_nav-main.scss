@@ -1,3 +1,10 @@
-li {
-  color: green;
+.nav-main {
+  position: relative;
+
+  &__box {
+  }
+
+  &__item {
+    list-style: none;
+  }
 }
